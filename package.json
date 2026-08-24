@@ -1,0 +1,25 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaikhZaib/LinkedList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ShaikhZaib/LinkedList/issues"
+  },
+  "homepage": "https://github.com/ShaikhZaib/LinkedList#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.4.2"
+  }
+}
